@@ -1,20 +1,20 @@
-title:            Tony Tang
-description:      Tony Tang's Academic Website
+title:            GuanYue (Yuma) Wu
+description:      Yuma's Academic Website
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              https://hcitang.github.io
+url:              https://yuma-wu.github.io
 
 # Owner/author information
 owner:
-  name:           Tony Tang
-  avatar:         tony.jpg
-  bio:            I'm an Associate Professor in the School of Computer and Information Systems at the Singapore Management University. I'm passionate about Human-Computer Interaction and other weird things.
-  email:          tonyt@smu.edu.sg
+  name:           GuanYue (Yuma) Wu
+  avatar:         yuma.jpg
+  bio:            I'm a PhD student at the University of Ottawa. I have a background in computer science and law, and I research the societal impact of AI companionship and corresponding regulatory measures.
+  email:          yuma.wu@uottawa.ca
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: proclubboy
-  google_scholar: RG1EQowAAAAJ
-  github: hcitang
+  orcid: 0009-0001-4922-9637
+  github: yuma-wu
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-19657956-3
+google_analytics: 
+# UA-19657956-3
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -27,17 +27,17 @@ links:
   - title: CV
     url: "/cv/"
   - title: Research
-    url: "http://ricelab.github.io"
+    url: "/research/"
     external: true
   - title: Teaching
     url: "/teaching/"
   - title: Blog
-    url: "http://ricelab.github.io/blog/"
+    url: "/blog/"
     external: true
   - title: Resources
-    url: /resources/
+    url: "/resources/"
   - title: Fun
-    url: /fun/
+    url: "/fun/"
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Toronto
