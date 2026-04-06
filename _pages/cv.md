@@ -22,4 +22,4 @@ Anthony’s work investigates the design of immersive analytics tools, where too
 * B.Sc. in Computer Science, 2015--2020, [University of British Columbia](https://www.ubc.ca/)
 
 <!-- TODO: Embed PDF of CV? -->
-Link to CV [here](assets/Yuma_WU_CV.pdf).
+Link to CV [here](../assets/Yuma_WU_CV.pdf).
