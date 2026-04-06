@@ -1,19 +1,20 @@
 ---
 layout: home2
-title: Howdy ho!
-description: "Tony Tang's Academic Website"
+title: Hi!
+description: "Yuma's Academic Website"
 ---
 
-I am an Associate Professor in the [School of Computing and Information Systems](https://scis.smu.edu.sg/) at the [Singapore Management University](https://www.smu.edu.sg). I direct the [RICELab (Rethinking Interaction, Collaboration and Engagement) research group](http://ricelab.github.io/). Previously, I was at the [Faculty of Information](https://ischool.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/), and in the [Department of Computer Science](http://www.cpsc.ucalgary.ca/) at the [University of Calgary](http://ucalgary.ca/).
+I am a PhD Student at the [University of Ottawa](https://www.uottawa.ca/en), and my advisor is [Teresa Scassa](https://teresascassa.ca/#). 
+I hold a B.Sc. in Computer Science and J.D. from the [University of British Columbia](https://www.ubc.ca/) and a LL.M. in Technology Policy from [Georgetown University](https://www.georgetown.edu/).
 
-My current research explores the design, implementation and evaluation of novel systems for:
-* human-AI interaction (human intention expression; AI feedback)
-* mixed reality interfaces for collaboration and learning,
-* prototyping ubiquitous computing environments, and
-* interfaces for AI/robot supported activity.
+My current research explores the impact and regulation of artificial sociality in topics such as:
+* Parallels between online harm regulation and potential artificial companion regulation
+* Macrosocial and carry-over implications of artificial companionship
+* Empirical observations of artificial companionship and regulatory implications
+* Implications of embodied versus disembodied artificial companionship
 
-Broadly, I am interested in User Experience Design, Human-Computer Interaction, and the sub-disciplines of Computer Supported Cooperative Work (CSCW), and Ubiquitous Computing.
+I am generally interested in Human-Computer Interaction and Online Harm Regulation, and I prioritize projects featuring interdisciplinary collaboration.
 
-In my spare time, I enjoy cooking, watching cooking videos on YouTube, watching movies, and running after my kid.
-
-In my previous life (i.e. before kiddo), I was an avid video game player, volleyball player (in real life), and aspired to be an awesome programmer.
+In what precious little spare time I have, I like to cook and crochet. I am also a big gamer, of both the digital and tabletop varieties. 
+For the former, I enjoy a diverse diet of games ranging from Animal Crossing to Sekiro. 
+As for the latter, I am a veteran Dungeon Master with 10+ years of experience. Collaborations with me may result in your recruitment in subsequent campaigns -- you have been warned!
