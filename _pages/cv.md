@@ -5,8 +5,8 @@ title: Yuma's CV
 ---
 
 My name is Guan Yue (Yuma) Wu. I am a PhD Student at the [University of Ottawa](https://www.uottawa.ca/en), and I research AI regulation. 
-In more specific terms, I study the impact of artificial sociality on a societal level and explore prospective regulatory safeguards that accord necessary dignity and protections to people experiencing emotional attachments to artificial entities. 
-I have experience building humanoid robots, writing about AI chatbots, and teaching Criminal law. If you have a job opening at the university level that requires any or all of those skills, I would love to hear from you.
+In more specific terms, I study the impact of artificial sociality on a societal level and explore prospective regulatory safeguards that accord necessary protections to people experiencing emotional attachments to artificial entities. 
+I have experience building humanoid robots, writing about AI chatbots, and teaching Canadian criminal law. If you have a job opening at the university level that requires any or all of those skills, I would love to hear from you.
 
 ### Education
 * Ph.D. in Law, 2024-ongoing, [University of Ottawa](https://www.uottawa.ca/en)
