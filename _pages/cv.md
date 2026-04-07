@@ -4,10 +4,9 @@ permalink: /cv/
 title: Yuma's CV
 ---
 
-## Executive Summary
-
-
-Anthony Tang is a tenured Associate Professor in the School of Computing and Information Systems at the Singapore Management University. He leads the RICELab (Rethinking Interaction, Collaboration and Engagement) group, which focuses on Human-Computer Interaction, Computer Supported Cooperative Work and Ubiquitous Computing. Previously, he was in the Faculty of Information at the University of Toronto, and prior to this, in the Department of Computer Science at the University of Calgary.
+My name is Guan Yue (Yuma) Wu. I am a PhD Student at the [University of Ottawa](https://www.uottawa.ca/en), and I research AI regulation. 
+In more specific terms, I study the impact of artificial sociality on a societal level and explore prospective regulatory safeguards that accord necessary dignity and protections to people experiencing emotional attachments to artificial entities. 
+I have experience building humanoid robots, writing about AI chatbots, and teaching Criminal law. If you have a job opening at the university level that requires any or all of those skills, I would love to hear from you.
 
 ### Research Overview
 Anthony’s work investigates the design of immersive analytics tools, where tools give people new ways of thinking about and interacting with their data, and analyzing and discussing their data with others. His research involves primarily three major types of activities: the investigation of domain-specific communication and interaction practices between people and technology; the design of new technologies to address needs in those domain-specific contexts, and the evaluation of interaction technologies. These activities cut across three theme areas:
@@ -21,5 +20,4 @@ Anthony’s work investigates the design of immersive analytics tools, where too
 * J.D., 2020-2023, [University of British Columbia](https://www.ubc.ca/)
 * B.Sc. in Computer Science, 2015--2020, [University of British Columbia](https://www.ubc.ca/)
 
-<!-- TODO: Embed PDF of CV? -->
 Link to CV [here](../assets/Yuma_WU_CV.pdf).

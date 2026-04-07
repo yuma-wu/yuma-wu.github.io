@@ -27,14 +27,12 @@ links:
     url: "/"
   - title: CV
     url: "/cv/"
-  - title: Research
-    url: "/research/"
-    external: true
+  # - title: Research
+    # url: "/research/"
   - title: Teaching
     url: "/teaching/"
   - title: Blog
     url: "/blog/"
-    external: true
   - title: Resources
     url: "/resources/"
   - title: Fun
