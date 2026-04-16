@@ -18,3 +18,8 @@ I am generally interested in Human-Computer Interaction and Online Harm Regulati
 In what precious little spare time I have, I like to cook and crochet. I am also a big gamer, of both the digital and tabletop varieties. 
 For the former, I enjoy a diverse diet of games ranging from Animal Crossing to Sekiro. 
 As for the latter, I am a veteran Dungeon Master with 10+ years of experience. Collaborations with me may result in your recruitment in subsequent campaigns -- you have been warned!
+
+#### Updates
+
+- **April 16th**: My solo-authored paper, *Governing AI Companionship: Lessons from Social Media Regulation*, has been accepted to [FAccT 2026](https://facctconference.org/). See you in Montreal!
+- **April 14th**: I received confirmation that my review of Professor Ryan Calo's recent work, *Law and Technology: A Methodical Approach*, will be published in the upcoming issue of the [scriptED](https://journals.ed.ac.uk/script-ed/index) journal.
