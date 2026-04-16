@@ -1,11 +1,11 @@
-title:            GuanYue (Yuma) Wu
+title:            Guan Yue (Yuma) Wu
 description:      Yuma's Academic Website
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              https://yuma-wu.github.io
 
 # Owner/author information
 owner:
-  name:           GuanYue (Yuma) Wu
+  name:           Guan Yue (Yuma) Wu
   avatar:         yuma.jpg
   bio:            I'm a PhD student at the University of Ottawa with a background in computer science and law.
                   My research is focused on the impact of artificial sociality and regulation thereof -- robot girlfriends, AI chatbots, that sort of thing.
