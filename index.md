@@ -5,7 +5,7 @@ description: "Yuma's Academic Website"
 ---
 
 I am a PhD Student at the [University of Ottawa](https://www.uottawa.ca/en), and my advisor is [Teresa Scassa](https://teresascassa.ca/#). 
-I hold a B.Sc. in Computer Science and J.D. from the [University of British Columbia](https://www.ubc.ca/) and a LL.M. in Technology Policy from [Georgetown University](https://www.georgetown.edu/).
+I hold a B.Sc. in Computer Science and J.D. from the [University of British Columbia](https://www.ubc.ca/) as well as a LL.M. in Technology Policy from [Georgetown University](https://www.georgetown.edu/).
 
 My current research explores the impact and regulation of artificial sociality in topics such as:
 * Parallels between online harm regulation and potential artificial companion regulation
