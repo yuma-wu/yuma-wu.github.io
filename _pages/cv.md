@@ -14,4 +14,4 @@ I have experience building humanoid robots, writing about AI chatbots, and teach
 * J.D., 2020-2023, [University of British Columbia](https://www.ubc.ca/)
 * B.Sc. in Computer Science, 2015--2020, [University of British Columbia](https://www.ubc.ca/)
 
-Link to CV [here](../assets/Yuma_WU_CV.pdf).
+Link to Full CV [here](../assets/Yuma_WU_CV.pdf).
