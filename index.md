@@ -21,5 +21,8 @@ As for the latter, I am a veteran Dungeon Master with 10+ years of experience. C
 
 #### Updates
 
-- **April 16th**: My solo-authored paper, *Governing AI Companionship: Lessons from Social Media Regulation*, has been accepted to [FAccT 2026](https://facctconference.org/). See you in Montreal!
+- **May 29th**: I gave a talk titled "Silicon Love: Should we stop worrying and love the bots?" for the Open Minds talk series, hosted at the UOttawa Centre for Technology and Law. 
+- **May 4th - 8th**: I taught the Criminal Law Mini-Course, ["Hands Up! Navigating the Canadian Criminal Justice System"](https://minic.ca/courses/info/809) to a class of 25 high school students aged between 13-15.
+- **April 16th**: My solo-authored paper, *Governing AI Companionship: Lessons from Social Media Regulation*, has been accepted to [FAccT 2026](https://facctconference.org/). I was also accepted as a student volunteer. See you in Montreal!
 - **April 14th**: I received confirmation that my review of Professor Ryan Calo's recent work, *Law and Technology: A Methodical Approach*, will be published in the upcoming issue of the [scriptED](https://journals.ed.ac.uk/script-ed/index) journal.
+- **March 13th**: I successfully completed the comprehensive exam portion of my doctorate degree. Just the thesis proposal and thesis remain.
