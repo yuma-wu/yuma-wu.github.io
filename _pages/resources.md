@@ -43,5 +43,14 @@ Here are some tech-law conferences, primarily ACM.
 As a practical consideration, do note that ACM conferences generally cost several hundred American dollars to attend, and at least one author must attend. 
 Some ACM conferences provide travel fundings and/or waive registration fees for volunteers, but volunteering positions are both often random and competitive so they're not a sure bet.
 
-* **Journals**
-	* 
+### Journals
+
+Journal publications are the primary currency of modern scholarship. 
+Note that different journals have their own rules on publishing timelines, simultaneous submissions to other journals (also known as a "dual submission policy"), review process, and whether the resulting journal is open-access or requires paid access. Therefore, please make sure the journal you aim to publish in aligns with your objectives.
+
+Journals generally accept manuscripts on a rolling-basis (i.e. no deadline, will be published in the next upcoming issue if accepted) by online portal or email.
+
+* [TechReg](https://techreg.org/): EU, accepts manuscripts of 8,000-12,000 words (including footnotes)
+* [Canadian Journal of Law and Technology at Dalhousie Law](https://digitalcommons.schulichlaw.dal.ca/cjlt/): Canadian, accepts full articles of 6000 to 12,500 words as well as comment pieces and book reviews
+* [ScriptED at University of Edinburgh](https://journals.ed.ac.uk/script-ed): UK, accepts articles up to 10,000 words (including footnotes) as well as smaller pieces, including but not limited to case comments and book reviews
+* [Georgetown Law Technology Review](https://georgetownlawtechreview.org/submissions/): US, accepts articles and legal notes; is unique in its acceptance of "Tech Explainers", which are short pieces summarizing legal implications of some piece of novel technology
