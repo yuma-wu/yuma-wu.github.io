@@ -59,7 +59,7 @@ Journals generally accept manuscripts on a rolling-basis (i.e. no deadline, will
 
 _**No.1 Tip of Graduate Productivity**: Have a balanced diet including plenty of water, exercise regularly, and get 8 hours of sleep every day._
 
-_Positionality Statement (haha)_: I'm fairly privacy conscious and like the idea of open-source tools, but I much prefer things that work out of the box. I'm not against AI tools for research, but I limit my personal use and thus don't know much about how they compare. I also have the unusual affliction that makes me immune to doomscrolling, so you won't find anti-doomscroll apps here.
+_Positionality Statement_: I'm fairly privacy conscious and like the idea of open-source tools, but I much prefer things that work out of the box. I'm not against AI tools for research, but I limit my personal use and thus don't know much about how they compare. I also have the unusual affliction that makes me immune to doomscrolling, so you won't find anti-doomscroll apps here.
 
 Now that we have all that out of the way, we can look at some fun productivity tools to optimize your work as little or as much as you want to.
 
