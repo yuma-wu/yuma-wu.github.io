@@ -24,6 +24,8 @@ These resources are primarily aimed at early-stage academics in their graduate s
 
 ## Law
 
+More to be added here...
+
 ## Relevant Venues for the Aspiring Tech-Law Scholar
 
 ### Conferences
@@ -66,7 +68,7 @@ Now that we have all that out of the way, we can look at some fun productivity t
 **Citation Manager**
 
 * [ReadCube Papers](https://about.readcube.com/): Pretty solid if you want a document organizer and citation generator all in one platform. $60USD per year.
-* [Zotero](https://www.zotero.org/): Slightly complicated to use but open-source and free. I'm thinking of switching over from ReadCube myself. 
+* [Zotero](https://www.zotero.org/): Slightly complicated to use but open-source and free to use. I'm thinking of switching over from ReadCube myself. 
 
 **Document Manager**
 
