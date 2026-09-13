@@ -27,4 +27,4 @@ title: Research
 
 ### Talks
 
-- Guan Yue (Yuma) Wu. 2026. Silicon Love: Should We Stop Worrying and Love the Bots. Presentation at the Open Mind Talks, University of Ottawa, Ottawa, Canada. https://www.jenniferchandler.ca/mind-brain-law
+- Guan Yue (Yuma) Wu. 2026. Silicon Love: Should We Stop Worrying and Love the Bots. Presentation at the Open Mind Talks, University of Ottawa, Ottawa, Canada. [https://www.jenniferchandler.ca/mind-brain-law](https://www.jenniferchandler.ca/mind-brain-law)
